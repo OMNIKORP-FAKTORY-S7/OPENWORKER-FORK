@@ -1,3 +1,19 @@
+# OPENWORKER-FORK
+
+## Origine
+- Fork de : **OpenWorker**
+- Auteur : andrewyng
+- Dépôt d'origine : https://github.com/andrewyng/openworker
+- Forké le 13.11.2026 par OMNIKORP-FAKTORY, avec tout l'historique et toutes les branches
+
+## Rôle chez OMNIKORP
+Prétendant d'AGENT SOFIA (S7), conservé comme preuve et sauvegarde, et étudié dans la chaîne EXTRACTION, COMPARAISON, FUSION.
+
+## Licence
+MIT, inchangée dans le fichier LICENSE.
+
+---
+
 <h1 align="center">OpenWorker</h1>
 
 <p align="center"><strong>A Desktop App for everyday work.<br>A Harness SDK to power your AI ideas.</strong></p>
